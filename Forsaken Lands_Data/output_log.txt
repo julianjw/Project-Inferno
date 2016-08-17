@@ -1,0 +1,47 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: S:\Game Development\Projects\Project Inferno\Forsaken Lands_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.434029 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.981968 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 0.235371 ms (FindLiveObjects: 0.016222 ms CreateObjectMapping: 0.013661 ms MarkObjects: 0.167065 ms  DeleteObjects: 0.038137 ms)
+
+Hero Selected: Hero1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Hero Selected: Hero1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player 1 Hero: Hero1 | Player 2 Hero: Hero1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2fbc -> priority: 1 
+  Thread -> id: 2c8 -> priority: 1 
